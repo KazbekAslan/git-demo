@@ -1,2 +1,4 @@
 hi
 everyone
+new string 3
+new string 4
